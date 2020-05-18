@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.nba.shopping"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "microservice",
+    "baseName": "NBAShopping",
+    "packageName": "com.nba.shopping",
+    "packageFolder": "com/nba/shopping",
+    "serverPort": "8088",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDk0OWUzOWJmYWQ0Y2NlZTY5OTIzY2NjZjgyMjY4ODBlYTA4ODgwM2UyMDA5NDMwN2VmODk0ZjIyZDg2OWRhYTI3NjIzNjI5OGZlZTA2ZWQxMmJhODNiZjljMGIyMGE3ZDE2YzMzMmFhNzliZjg5MWFhYjYwMmFiZmQzODIwNDY=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1589786486063,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
